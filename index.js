@@ -23,7 +23,6 @@ function attemptTwoFavoriteCustomers() {
   
   return favoriteCustomer;
   
-  let favoriteCustomer = 'not jim';
 }
 
 
