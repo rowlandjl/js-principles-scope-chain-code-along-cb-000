@@ -23,6 +23,8 @@ let favoriteCustomer = 'jim';
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = 'jim bob';
   
+  let favoriteCustomer = 'jimmy';
+  
 }
 
 
