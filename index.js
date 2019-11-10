@@ -23,7 +23,7 @@ let favoriteCustomer = 'jim';
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = 'jim bob';
   
-  let favoriteCustomer = 'jimmy';
+  throw new SyntaxError('test broken', 'someFile.js', 10);
   
 }
 
