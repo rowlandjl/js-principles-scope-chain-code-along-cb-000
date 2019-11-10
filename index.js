@@ -20,7 +20,7 @@ function changeLeastFavoriteCustomer() {
 
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = 'jim';
-  favoriteCustomer = 'not jim';
+  return favoriteCustomer = 'not jim';
 }
 
 
